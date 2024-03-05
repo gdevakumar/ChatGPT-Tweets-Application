@@ -1,4 +1,4 @@
-# ChatGPT-Tweets-Application
+# ChatGPT-Tweets-DB-Application
 
 ## MySQL Application
 
